@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech of Mr. David Lewis, priest of the Society of Jesus, who was executed as a priest only, at Uske in Monmouth-shire, on the 27th day of August, anno Domini 1679</title>
+            <author>Lewis, David, Saint, 1617-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70447</idno>
+            <idno type="STC">Wing L1836</idno>
+            <idno type="STC">ESTC R16096</idno>
+            <idno type="EEBO-CITATION">20551588</idno>
+            <idno type="OCLC">ocm 20551588</idno>
+            <idno type="VID">49926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 500:21 or 719:9b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech of Mr. David Lewis, priest of the Society of Jesus, who was executed as a priest only, at Uske in Monmouth-shire, on the 27th day of August, anno Domini 1679</title>
+                  <author>Lewis, David, Saint, 1617-1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>This item can also be found at reel 719:9 bound with "A narrative of the imprisonment and tryal of Mr. David Lewis."</note>
+                  <note>Reproduction of original in the Library of Congress and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lewis, David, --  Saint, 1617-1679.</term>
+               <term>Jesuits --  England.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="scaffold_speech">
+            <pb n="1" facs="tcp:49926:1"/>
+            <head>THE Laſt SPEECH OF Mr. <hi>David Lewis,</hi> Prieſt of the Society of <hi>Jeſus,</hi> who was Executed as a Prieſt only, at <hi>
+                  <g ref="char:V">Ʋ</g>ske</hi> in <hi>Monmouth-ſhire,</hi> on the 27th day of <hi>Auguſt, Anno Domini</hi> 1679.</head>
+            <p>HEre is a numerous Aſſembly, I ſee, the Great Saviour of the World ſave every Soul of you all; I believe you are here met not only to ſee a Fellow-native die, but alſo with expectation to hear a dying Fellow-native ſpeak. If you expected it not, at leaſt I intended it, I hope the favour will not be denied me, it being a favour ſo freely granted to ſeveral late dying perſons in <hi>London</hi> it ſelf; I ſhall en<g ref="char:EOLhyphen"/>deavour to ſpeak inoffenſively; I hope the ſame favour will not be denied me.</p>
+            <p>
+               <hi>Let none of you ſuffer as a Murderer or a Thief, but if as a Chri<g ref="char:EOLhyphen"/>ſtian, let him not be aſhamed;</hi> St. <hi>Peters</hi> words in his <hi>1.</hi> Ep. Chap. <hi>4.</hi> Ver. <hi>15, 16.</hi> I hope by Gods Holy Spirit now whiſpered to my memory, and that to my abundant Conſolation; for I ſuffer not as a Murderer, Thief, or ſuch like Malefactor, but as a Chriſtian, and therefore am not aſhamed.</p>
+            <p>I diſtinguiſh two ſorts of Life on Earth, Life-moral, and Life-natural; Life-moral is that by which we live with good Repute in the Eſteem of other Men of Integrity; Life-natural is that by which we breath; in the firſt ſort or kind, I thank God I have ſuffered lately, and exceedingly, when malici<g ref="char:EOLhyphen"/>ouſly, falſely, and moſt injuriouſly, I was branded for a publick Cheat,<note place="margin">Vid. Epilogue <hi>to</hi> Caeſar Bor<g ref="char:EOLhyphen"/>gia, <hi>a Tragedy written by</hi> Nat. Lee.</note> in Pamphlet, in Ballad, on Stage, and that in the Head City of the Kingdom, yea and over the whole Nation, to the huge and great detriment of my good Name, which I always was as tender of, as the other I am now quitting.</p>
+            <p>The Pamphletical Story (believe my dying words) had no truth in it, neither to Subſtance nor Circumſtance of the thing, a Story ſo falſe, that I could have eaſily defied the Face that had attempted to juſtifie it to my Face; ſo ſordid a Buſineſs, a Story ſo ridiculous, that I wonder how any ſober Chri<g ref="char:EOLhyphen"/>ſtian, at least who knew me, could as much as incline to believe ſo open an Improbability; who that Proteſtant young Man there mention'd was, I know not; who that Popiſh young Woman, who the Father dead a year and a half before, what County, what Pariſh, where all tranſacted, I know not, none of all theſe there particularized; and when in the face of the Country at laſt Lent Aſſizes, I vindicated my Innocency herein, to the ſatisfaction of the then Judge himſelf, why appeared not there then ſome one to make good the Charge, and diſable my Defence? but none of this offer'd, a plain demonſtra<g ref="char:EOLhyphen"/>tion to all Candid Minds, the whole was a meer fiction of ſome malicious per<g ref="char:EOLhyphen"/>ſon againſt me: God forgive them or him, I heartily do. How forward my
+<pb n="2" facs="tcp:49926:2"/>Endeavours always have been to my power to relieve the Poor, and not di<g ref="char:EOLhyphen"/>rectly to defraud them, Impartial Neighbours that know me can tell you; beſides this, during my nine months Impriſonment, ſeveral foul and falſe Aſperſions were caſt out againſt me, and that by thoſe unto whom, for full thirty years, I had been charitably ſerviceable: God forgive them, I hear<g ref="char:EOLhyphen"/>tily do; yet notwithſtanding all theſe Calumniations, I hope I ſtill retain the Character of an Honeſt Man amongſt Gentlemen of Worth, with whom I con<g ref="char:EOLhyphen"/>verſed, and with all Neighbours of Honeſly, with and amongſt whom I lived.</p>
+            <p>And now I am parting with the other Life by which I breath, behold, that within theſe few Moments of Time is to unbreath me; but why thus ſledg'd to this Country-<hi>Tyburne?</hi> why this ſo untimely Death of mine? have patience and I'le tell you, not for any plotting I aſſure you, and what I ſhall now ſay as to that, God is my Witneſs, I ſhall ſpeak without any E<g ref="char:EOLhyphen"/>quivocation, Mental Reſervation, or Palliation of Truth whatſoever.</p>
+            <p>By all that is Sacred in Heaven and Earth, I here ſolemnly proteſt, that I am as innocent from any Plot whatever againſt His Majeſties Perſon or Government, as the Infant that left the Mothers Womb but yeſterday; nei<g ref="char:EOLhyphen"/>ther did I ever hear or know any thing directly or indirectly of any ſuch Plot, till publick fame had ſpread it over the Country between <hi>Michaelmas</hi> and <hi>All-Saints</hi> day laſt: This is true, as God ſhall judge and ſave my Soul; neither was there any guilt of any ſuch black Crime found in me by Mr. <hi>Oates,</hi> Mr. <hi>Bedloe,</hi> Mr. <hi>Dugdale,</hi> and Mr. <hi>Prance,</hi> when by them I was ſtrictly examined on that Point laſt <hi>May</hi> in <hi>Newgate, London;</hi> nay, had I had the leaſt knowledge or hint of ſuch Plot, I had been as zealouſly nimble in the diſcovery of it, as any the moſt Loyal Subject His Majeſty hath in His three Kingdoms; wherefore when I am dead and gone, if ſome malevolent give out I loſe my Life for Plotting, by Charity ſtrive to diſingage him of his miſtake, do that Right to my dead Aſhes.</p>
+            <p>I was never taught that Doctrine of King-killing, from my Soul I deteſt and abhor it as execrable, and directly oppoſite to the Principles of the Religion I profeſs, what that is you ſhall know by and by; it being the poſitive defi<g ref="char:EOLhyphen"/>nition of the Councel of <hi>Conſtance,</hi> That it is damnable for any Subject or private perſon, or any Subjects in Councel joyned, to murder his or their Lawful King or Prince, or uſe any publick or clandeſtine Conſpiration againſt Him, though the ſaid King or Prince were a Turk, Apoſtate, Perſecutor, yea or a Tyrant in Government: Never tell me of <hi>Clement</hi> the Murderer of <hi>Henry</hi> the <hi>3d</hi> of <hi>France;</hi> never tell me of <hi>Ravilliacke,</hi> Murderer of <hi>Henry</hi> the <hi>4th</hi> of <hi>France;</hi> they did ſo, but wickedly they did ſo, and for it they were puniſhed to ſeverity, as Malefactors; and for it to this very day are ſtigmatized by all <hi>Roman</hi> Catholicks for very Miſcreants and Villains: I hope you will not charge the whole <hi>Roman</hi> Catholick Body with the Villanies of ſome few Deſperadoes? by that Rule all Chriſtianity muſt be anſwerable for the Treaſon of <hi>Judas;</hi> for my part, I always loved my King, I al<g ref="char:EOLhyphen"/>ways honoured His Perſon, and I daily prayed for His Proſperty; and now, with all unfained Cordiality, I ſay it, God bleſs my Gracious King and Lawful Prince, <hi>Charles</hi> the Second, King of <hi>England,</hi> and Prince of <hi>Wales,</hi> God bleſs Him Temporally and Eternally, God preſerve Him from all His real Enemies, God direct Him in all His Councils, that may tend to the greater Glory of the ſame Great God; and whatever late Plot hath been, or is, the Father of Lights bring it to light, the Contrivers of it, and the Actors in it, that ſuch may be brought to their condign puniſhment, and Innocence preſerved.</p>
+            <pb n="3" facs="tcp:49926:2"/>
+            <p> But why again this untimely Death? my Religion is the <hi>Roman</hi> Catholick Religion, in it I have lived above theſe forty years, in it I now die, and ſo fixedly die, that if all the good things in this World were offered me to re<g ref="char:EOLhyphen"/>nounce it, all ſhould not move me one hairs breadth from my <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholick Faith, a <hi>Roman</hi> Catholick I am, a <hi>Roman</hi> Catholick Prieſt I am, a <hi>Roman</hi> Catholick Prieſt of that Religious Order called the Society of Jeſus I am, and I bleſs God who firſt called me, and I bleſs the hour in which I was firſt called both unto Faith and Function.</p>
+            <p>Pleaſe now to obſerve, I was condemned for reading Maſs, hearing Con<g ref="char:EOLhyphen"/>feſſions, Adminiſtring the Sacraments, Annointing the Sick, Chriſtening, Marrying, Preaching: As for reading the Maſs, it was the old, and ſtill is, the Accuſtomed and Laudable Liturgy of the Holy Church, and all the other Acts, which are Acts of Religion, tending to the Worſhip of God; and for this dying, I dye for Religion: Moreover know, that when laſt <hi>May</hi> I was in <hi>London</hi> under examination concerning the Plot, a prime Examinant told me, That to ſave my Life, and increaſe my Fortunes, I muſt make ſome diſcovery of the Plot, or Conform; diſcover Plot I could not, for I knew of none; Conform I would not, becauſe it was againſt my Conſcience, then by conſequence I muſt dye, and ſo now dying, I dye for Conſcience and Religion; and dying upon ſuch good ſcores, as far as hu<g ref="char:EOLhyphen"/>mane frailty permits, I dye with Alacrity Interior and Exterior; from the abundance of the Heart, let not only Mouths, but Faces alſo ſpeak.</p>
+            <p>Here methinks I feel Fleſh and Blood ready to burſt into loud Cries, Tooth for Tooth, Eye for Eye, Blood for Blood, Life for Life; No, cryeth Holy Goſpel, <hi>Forgive and you ſhall be forgiven; Pray for thoſe that perſecute you; Love your Enemies;</hi> and I profeſs my ſelf a Child of the Goſpel, and the Goſpel I obey.</p>
+            <p>Whomever, preſent or abſent, I have ever offended, I humbly deſire them to forgive me; as for my Enemies, had I as many Hearts as I have Fingers, with all thoſe Hearts would I forgive my Enemies, at leaſt-wiſe with all that ſingle Heart I have, I freely forgive them all, my Neigh<g ref="char:EOLhyphen"/>bours that betrayed me, the Perſons that took me, the Juſtices that Com<g ref="char:EOLhyphen"/>mitted me, the Witneſſes that proved againſt me, the Jury that found me, the Judge that Condemned me, and others who ever, that out of malice or zeal, covertly or openly, have been contributive to my Condemnation; but ſingularly and eſpecially I forgive my Capital Perſecutor, who hath been ſo long thirſting after my Blood, from my Soul I forgive him, and wiſh his Soul ſo well, that were it in my power, I would ſeat him a Seraphim in Heaven, and I pray for them in the Language of Glorious St. <hi>Stephen</hi> the Protomartyr; <hi>Lord, lay not this ſin unto them;</hi> or better yet, in the Style of our Great Maſter <hi>Chriſt</hi> himſelf, <hi>Father forgive them, they know not what they do.</hi>
+            </p>
+            <p>And with Reaſon I love them alſo; for though they have done them<g ref="char:EOLhyphen"/>ſelves a vaſt Soul-prejudice, yet they have done me an incomparable favour, which I ſhall eternally acknowledge; but chiefly I love them for his ſake, who ſaid, <hi>Love your Enemies;</hi> and in Teſtimony of my Love, I wiſh them, and it is the beſt of Wiſhes, from the Center of my Soul, I wiſh them a good Eternity: O Eternity! Eternity! How momentanean are the Glories, Riches, and Pleaſures of this World? and how deſirable art thou Endleſs Eternity?</p>
+            <p>And for my ſaid Enemies attaining thereunto, I humbly beſeech God to give them the Grace of true Repentance before they and this World part.</p>
+            <pb n="4" facs="tcp:49926:3"/>
+            <p> Next to my Enemies, give me leave to lift up my Eyes, Hands, and Heart to <hi>Heaven,</hi> and drop ſome few Words of Advice unto, and for my Friends, as well thoſe preſent as abſent. Friends, <hi>Fear God, Honour your King,</hi> be firm in your Faith, avoid Mortal Sin, by frequenting the Sacraments of Holy Church, patiently bear your Perſecutions and Afflicti<g ref="char:EOLhyphen"/>ons, Forgive your Enemies, your Sufferings are great, I ſay be firm in your Faith to the end, yea even to Death, then ſhall you heap unto your ſelves Coeleſtial Treaſures in the <hi>Heavenly Jeruſalem,</hi> where no Thief Robbeth, no Moth Eateth, and no Ruſt Conſumeth; and have that Bleſ<g ref="char:EOLhyphen"/>ſed Saying of the Bleſſed St. <hi>Peter,</hi> Prince of the Apoſtles, always in your memory, which I heartily recommend unto you, <hi>viz. Let none of you ſuf<g ref="char:EOLhyphen"/>fer as a Murderer or Thief, but if as a Chriſtian, let him not be a<g ref="char:EOLhyphen"/>ſhamed, but glorifie God in his Name.</hi>
+            </p>
+            <p>Now it is high time I make my Addreſses to Heaven, and ſupplicate the Divine Goodneſs in my own behalf, by ſome few ſhort and Cordial Ejacu<g ref="char:EOLhyphen"/>lations of Prayers.</p>
+            <q>
+               <p>
+                  <hi>Sovereign Lord God,</hi> Eternal Father of Heaven, Creator of all, Con<g ref="char:EOLhyphen"/>ſerver of all, ſole Author of Grace and Glory, with proſtrate Heart I Adore thee, and thee only I Adore as God, the Giving of Divine Ho<g ref="char:EOLhyphen"/>nour to any Creature of higheſt degree, I abhor and deteſt as damna<g ref="char:EOLhyphen"/>ble Idolatry.</p>
+               <p>
+                  <hi>Incarnate Son of God,</hi> True God, Thou haſt purchaſed a Church here upon Earth with thy Sacred Blood, and planted it with thy Sa<g ref="char:EOLhyphen"/>cred Labours, a Church, One, Holy, Catholick, and Apoſtolick, a Church to continue to the Conſummation of the World: Whatever that Church of thine hath by Revelation from thee, whatever that Church of thine hath taught me, and commanded me to believe, I belive it to an Jota.</p>
+               <p>
+                  <hi>God Holy Ghoſt,</hi> who maketh thy Sun to ſhine on Good and Bad, thy Rain to fall on the Juſt and Unjuſt, I praiſe thy Holy Name, and thank thee for the Innumerable Benefits thou haſt been pleaſed to be<g ref="char:EOLhyphen"/>ſtow and confer upon me, thy unworthy Servant, the threeſcore and three years I now have lived on Earth.</p>
+               <p>
+                  <hi>The Grace of our Lord Jeſus Chriſt, and the Charity of God, and the Communication of the Holy Ghoſt, be with you all,</hi> Amen, <hi>2</hi> Cor. <hi>13.</hi> Chap. <hi>14.</hi> Verſe.</p>
+               <p>
+                  <hi>The Peace of God that paſſeth all underſtanding, keep your Hearts and Minds in the Knowledge and Love of God, and of his Son Jeſus Chriſt our Lord, and the Bleſſing of God Almighty, Father, Son, and Holy Ghoſt, be among you, and remain with you all, and always,</hi> Amen.</p>
+               <p>O Holy Trinity, <hi>three Perſons, and one God, from the bottom of my Heart, I am ſorry that ever I have offended thee my Good God, even to an Idle Word; yet through the Mercy of thee, my God, and Merits of my Redeemer, I ſtrongly hope for an Eternal Salvation.</hi>
+               </p>
+            </q>
+            <p>Sweet Jeſus Receive my Soul.</p>
+            <p>And ſo was Executed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
